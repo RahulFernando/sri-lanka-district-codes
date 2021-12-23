@@ -1,0 +1,17 @@
+{
+  "name": "sri-lanka-district-codes",
+  "version": "1.0.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahulFernando/sri-lanka-district-codes.git"
+  },
+  "keywords": ["srilanka", "district-codes", "codes", "sri-lanka", "districts"],
+  "author": "RAHUL",
+  "license": "ISC",
+  "description": "NPM package return districts and short codes",
+  "homepage": "https://github.com/RahulFernando/sri-lanka-district-codes"
+}
